@@ -14,11 +14,13 @@
   - 🔭 Estou disposto a aprender cada vez mais.
 </p>
 
-<!-- Links -->
+<!-- Links 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kausr001)
 
-<!-- GithubStats -->
+-->
+<!-- GithubStats 
 ![KauSR1 GitHub stats](https://github-readme-stats.vercel.app/api?username=KauSR1&show_icons=true&theme=gotham)
+-->
 
 <!-- Portfolio -->
 
