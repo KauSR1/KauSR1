@@ -1,16 +1,27 @@
-## Hi there 👋
+# Olá, eu sou o Kauan Silva! 👋
 
-<!--
-**KauSR1/KauSR1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Fullstack em evolução contínua, focado em criar aplicações claras, funcionais e bem estruturadas — do backend à interface.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="75%" alt="gif animado" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills
+
+**Linguagens:** `HTML` • `CSS`
+
+**Frameworks & Ferramentas:** `Git` • `VS Code`
+
+---
+
+### 📫 Vamos nos conectar?
+📍 Porto Alegre – RS  
+📧 [kausilva.r3@gmail.com](mailto:kausilva.r3@gmail.com)  
+🔗 [LinkedIn: kausr01](https://www.linkedin.com/in/kausr01)
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KauSR1&show_icons=true&theme=radical" alt="Status do GitHub" />
+</p>
