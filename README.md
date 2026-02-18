@@ -1,4 +1,4 @@
-# Olá, eu sou o Kauan Silva! 👋
+# Kauan Silva
 
 Desenvolvedor Fullstack em evolução contínua, focado em criar aplicações claras, funcionais e bem estruturadas — do backend à interface.
 
@@ -21,7 +21,3 @@ Desenvolvedor Fullstack em evolução contínua, focado em criar aplicações cl
 📧 [kausilva.r3@gmail.com](mailto:kausilva.r3@gmail.com)  
 🔗 [LinkedIn: kausr01](https://www.linkedin.com/in/kausr01)
 
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KauSR1&show_icons=true&theme=radical" alt="Status do GitHub" />
-</p>
