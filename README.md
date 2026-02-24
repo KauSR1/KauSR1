@@ -10,7 +10,7 @@ Desenvolvedor Fullstack em evolução contínua, focado em criar aplicações cl
 
 ### 🛠️ Skills
 
-**Linguagens:** `HTML` • `CSS` • `PHP`
+**Linguagens:** `HTML` • `CSS` • `JS` • `PHP` 
 
 **Frameworks & Ferramentas:** `Git` • `VS Code`
 
