@@ -1,6 +1,6 @@
 # Kauan Silva
 
-Desenvolvedor Fullstack em evolução contínua, focado em criar aplicações claras, funcionais e bem estruturadas — do backend à interface.
+Desenvolvedor BackEnd em evolução contínua, focado em criar aplicações claras, funcionais e bem estruturadas.
 
 <p align="center">
   <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="75%" alt="gif animado" />
