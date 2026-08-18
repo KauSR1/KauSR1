@@ -1,23 +1,31 @@
-# Kauan Silva
+# Hi, I'm Kauan Silva
 
-Desenvolvedor BackEnd em evolução contínua, focado em criar aplicações claras, funcionais e bem estruturadas.
+Backend Software Engineer focused on building reliable and maintainable backend systems.
+
+I work with PHP/Laravel and Java, with a focus on backend development, software architecture, APIs, databases, and testing.
 
 <p align="center">
-  <img src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" width="75%" alt="gif animado" />
+  <img
+    src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7"
+    width="55%"
+    alt="Animated illustration"
+  />
 </p>
 
 ---
 
-### 🛠️ Skills
+### Tech Stack
 
-**Linguagens:** `HTML` • `CSS` • `JS` • `PHP` 
+**Languages:** `Java` • `PHP`
 
-**Frameworks & Ferramentas:** `Git` • `VS Code`
+**Backend:** `Spring Boot` • `Laravel` • `REST APIs`
+
+**Databases:** `MySQL` • `PostgreSQL`
+
+**Tools:** `Git` • `Docker` • `Linux`
 
 ---
 
-### 📫 Vamos nos conectar?
-📍 Porto Alegre – RS  
-📧 [kausilva.r3@gmail.com](mailto:kausilva.r3@gmail.com)  
-🔗 [LinkedIn: kausr01](https://www.linkedin.com/in/kausr01)
+### Connect
 
+[LinkedIn](https://www.linkedin.com/in/kausr01) • [Email](mailto:kausilva.r3@gmail.com)
